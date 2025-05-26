@@ -2,7 +2,6 @@ from flask import Flask
 
 from app.views import index_views
 
-
 BLUEPRINTS = [index_views]
 
 
